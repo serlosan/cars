@@ -9,7 +9,7 @@ output: html_document
 
 # 1. Before we start
 
-We need to load the following packages. If you don't have them installed in your computer, you can do so using the `install.packages()` function.
+We need to load the following packages. If you don't have them installed in your computer, you can do so using the `install.packages()` FUNCTION
 
 ```{r, message=FALSE}
 library(languageR)
